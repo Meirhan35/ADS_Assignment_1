@@ -207,6 +207,6 @@ This assignment helped me build a strong understanding of recursion and its appl
 
 ## 🔗 Submission
 
-GitHub repository link: https://github.com/Meirhan35/ADS-Assignment-1.git
+GitHub repository link: https://github.com/Meirhan35/ADS_Assignment_1.git
 
 ---
