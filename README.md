@@ -13,4 +13,7 @@ The system demonstrates:
 * Queue for bill payments and account requests (FIFO)
 * Array for fixed-size storage
 
+*BankAccount class – Stores account details such as account number, username, and balance.
+
+
 
